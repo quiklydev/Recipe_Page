@@ -1,0 +1,16 @@
+{
+    "name": "",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.html",
+    "scripts": {
+      "start": "live-server --open=index.html"
+    },
+    "author": "Evgeny Kozelskiy",
+    "license": "ISC",
+    "keywords": ["recipe", "", "frontend"],
+    "dependencies": {},
+    "devDependencies": {
+      "live-server": "^1.2.2"
+    }
+}
