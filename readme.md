@@ -1,6 +1,6 @@
-# Recipe Page
+# The Cool Tasty (Recipe Page)
 
-A responsive and accessible recipe website built using **HTML5** and **CSS3**, with semantic structure and performance optimization. This project showcases clean design, WebP image support, lazy loading, and accessibility best practices.
+A responsive and accessible recipe website “The Cool Tasty” built using **HTML5** and **CSS3**, with semantic structure and performance optimization. This project showcases clean design, WebP image support, lazy loading, and accessibility best practices.
 
 ## Features
 
