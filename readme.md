@@ -12,7 +12,7 @@ A responsive and accessible recipe website built using **HTML5** and **CSS3**, w
 
 ## Live Demo
 
-[🔗 View Project](https://der12kl.github.io/Recipe_Page/)
+[🔗 View Project](https://quiklydev.github.io/Recipe_Page/)
 
 ## 📸 Preview
 
@@ -24,9 +24,9 @@ A responsive and accessible recipe website built using **HTML5** and **CSS3**, w
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
-![Validated HTML](https://img.shields.io/w3c-validation/html?targetUrl=https://der12kl.github.io/Recipe_Page/index.html)
-[![Accessibility: 100%](https://img.shields.io/badge/Accessibility-100%25-brightgreen)](https://der12kl.github.io/Recipe_Page/)
-[![Lighthouse Score](https://img.shields.io/badge/Lighthouse-95%2B-green)](https://der12kl.github.io/Recipe_Page/)
+![Validated HTML](https://img.shields.io/w3c-validation/html?targetUrl=https://quiklydev.github.io/Recipe_Page/)
+[![Accessibility: 100%](https://img.shields.io/badge/Accessibility-100%25-brightgreen)](https://quiklydev.github.io/Recipe_Page/)
+[![Lighthouse Score](https://img.shields.io/badge/Lighthouse-95%2B-green)](https://quiklydev.github.io/Recipe_Page/)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](LICENSE)
 
 
@@ -79,16 +79,12 @@ Recipe_Page/
 ├── package.json
 └── README.md
 
-## Feedback Welcome
-
-This project was built as part of my learning and portfolio for front-end freelancing.
-I'm currently seeking feedback, improvements, and possible collaborations.
-Feel free to create an issue or contact me via email or social platforms.
+## Feedback & Bugs
+Found an issue? Create an issue here: https://github.com/quiklydev/Recipe_Page/issues
 
 **Migrated to @quiklydev**  
 Live demo: https://quiklydev.github.io/Recipe_Page  
 Maintained by: [@quiklydev](https://github.com/quiklydev)  
-Product Hunt: https://www.producthunt.com/@quikly_dev  
 Contact: quiklydev.dev@gmail.com
 
 ## LICENSE

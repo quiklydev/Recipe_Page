@@ -6,7 +6,7 @@
     "scripts": {
       "start": "live-server --open=index.html"
     },
-    "author": "Evgeny Kozelskiy",
+    "author": "quiklydev",
     "license": "ISC",
     "keywords": ["recipe", "", "frontend"],
     "dependencies": {},
